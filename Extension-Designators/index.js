@@ -11,7 +11,7 @@ const MODULE_NAME = 'designators';
 const DEFAULT_ROSTER = Object.freeze([
     { key: 'p10', value: 'Gadg8eer', note: 'GM Persona' },
     { key: 'p86', value: 'ArcoIris', note: 'Persona' },
-    { key: 'char_mmbn_winterexe', value: 'WinterMan.EXE', note: 'GM's NetNavi' },
+    { key: 'char_mmbn_winterexe', value: 'WinterMan.EXE', note: 'NetNavi for Gadg8eer' },
     { key: 'char_cp2077_1', value: 'Yucca', note: 'Cyberpunk 2077 mechanic' },
 ]);
 
