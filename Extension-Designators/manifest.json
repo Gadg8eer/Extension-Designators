@@ -1,0 +1,16 @@
+{
+    "display_name": "Designators",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "dependencies": [],
+    "js": "index.js",
+    "author": "Gadg8eer",
+    "version": "1.0.0",
+    "auto_update": false,
+    "hooks": {
+        "activate": "onActivate",
+        "enable": "onEnable",
+        "disable": "onDisable"
+    }
+}
